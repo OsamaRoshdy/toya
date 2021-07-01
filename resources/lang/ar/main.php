@@ -1,0 +1,25 @@
+<?php
+
+return array (
+    'dashboard' => 'لوحة التحكم',
+    'home' => 'الرئيسية',
+    'admins' => 'المشرفين',
+    'new_record' => 'اَضافة عنصر جديد',
+    'created_at' => 'تاريخ الانشاء',
+    'actions' => 'التحكم',
+    'save' => 'حفظ',
+    'back' => 'رجوع',
+    'create' => 'أضافة',
+    'update' => 'تعديل',
+    'read' => 'عرض',
+    'delete' => 'حذف',
+    'edit' => 'تعديل',
+    'status_enable' => 'مفعل',
+    'status_disable' => 'غير مفعل',
+    'image' => 'الصورة',
+    'status' => 'الحالة',
+    'added_successfully' => 'تمت عملية الاضافة بنجاح',
+    'updated_successfully' => 'تمت عملية التحديث بنجاح',
+    'deleted_successfully' => 'تمت عملية الحذف بنجاح',
+    'roles' => 'الصلاحيات',
+);
